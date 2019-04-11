@@ -18,4 +18,8 @@ end
 def last_element(array)
   array[-1]
 end  
+
+def my_new_array(array)
+  array = instantiate_new_array
+end  
   
