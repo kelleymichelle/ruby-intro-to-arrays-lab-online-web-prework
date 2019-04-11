@@ -22,4 +22,14 @@ end
 def my_new_array(array)
   array = instantiate_new_array
 end  
+
+def first_element_with_array_methods(array)  
+  array = south_east_asia = ["Thailand", "Cambodia", "Singapore", "Myanmar"]
+  array.first
+end  
+  
+  
+  
+  
+  
   
