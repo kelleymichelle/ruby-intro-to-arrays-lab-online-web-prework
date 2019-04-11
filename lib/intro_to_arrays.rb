@@ -8,4 +8,5 @@ end
 
 def first_element(array)
   array = taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  array.first
 end  
